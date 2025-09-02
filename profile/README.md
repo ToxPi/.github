@@ -6,6 +6,10 @@ Marvel SW, To K, Grimm FA, Wright FA, Rusyn I, Reif DM. ToxPi Graphical User Int
 <br>&#8594;Direct download of the **Stand-alone Java application (GUI)** from [toxpi.org](https://toxpi.org/): [toxpi_v2.3.zip](https://github.com/user-attachments/files/21943523/toxpi_v2.3.zip)
 <br>&#8594;Direct download the **GUI User Manual** (PDF) from [toxpi.org/Manual](https://toxpi.org/dist/ToxPi%20User%20Manual.pdf): [ToxPi User Manual.pdf](https://github.com/user-attachments/files/21943527/ToxPi.User.Manual.pdf)
 
+R package for the Toxicological Priority Index (ToxPi) prioritization algorithm. 
+<br>&#8594;**GitHub for toxpiR** package (includes branches under active development with new features): https://github.com/ToxPi/toxpiR
+<br>&#8594;**CRAN version of toxpiR** package: https://CRAN.R-project.org/package=toxpiR
+
 Fleming J, Marvel SW, Supak S, Motsinger-Reif AA, Reif DM. ToxPi*GIS Toolkit: creating, viewing, and sharing integrative visualizations for geospatial data using ArcGIS. J Expo Sci Environ Epidemiol. 2022 Apr 26:1–8. [https://www.nature.com/articles/s41370-022-00433-w](https://www.nature.com/articles/s41370-022-00433-w)
 <br>&#8594;*Toolkit for integrating ToxPi models with GIS mapping applications*
 
