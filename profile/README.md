@@ -2,8 +2,7 @@
 
 ToxPi GitHub :house_with_garden:. For current information on ToxPi see: https://toxpi.github.io/
 
-
-
+<br><br>
 Marvel SW, To K, Grimm FA, Wright FA, Rusyn I, Reif DM. ToxPi Graphical User Interface 2.0: Dynamic exploration, visualization, and sharing of integrated data models. BMC Bioinformatics. 2018. 19(1):80. [https://doi.org/10.1186/s12859-018-2089-2](https://doi.org/10.1186/s12859-018-2089-2)
 <br>&#8594;Direct download of the **Stand-alone Java application (GUI)** from [toxpi.org](https://toxpi.org/): [toxpi_v2.3.zip](https://github.com/user-attachments/files/21943523/toxpi_v2.3.zip)
 <br>&#8594;Direct download the **GUI User Manual** (PDF) from [toxpi.org/Manual](https://toxpi.org/dist/ToxPi%20User%20Manual.pdf): [ToxPi User Manual.pdf](https://github.com/user-attachments/files/21943527/ToxPi.User.Manual.pdf)
